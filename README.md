@@ -1,4 +1,5 @@
-# MLOPS_Internship_Task_6
+# Face Recognition With Task Automation 
+MLOPS_Internship_Task_6
 
 Task Description 📄
 
